@@ -1,0 +1,103 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+nav{
+    margin-top: 20px;
+}
+nav ul li a{
+    margin-left: 20px;
+    color: white;
+}
+ul li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+i{
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    /* color: blueviolet;
+    background-color: rgb(225, 0, 255); */
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}.header{
+    position: relative;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    background-color: blueviolet;
+    
+}.social-icons{
+    position: absolute;
+    top: 0;
+    right: 0;
+}.header-title{
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-size:60px;
+    font-family: inherit;
+}#about-me{
+display: flex;
+justify-content: space-around;
+}
+section article{
+    width: 33%;
+}img{
+    margin-top: 20px;
+}
+article{
+    margin-top: 20px;
+}
+p{
+    margin: 20px;
+    color: rgb(80,78,78);
+    font-family: cursive;
+}
+figcaption{
+    text-align: center;
+    margin: 10px;
+}
+footer{
+    height: 200px;
+    background-color:red;
+    
+}.bt{
+    height: 25px;
+    width: 25px;
+    border-color: black;
+    color: black;
+    margin-right: 15px;
+    margin-left: 5px;
+    margin-top: 5px;
+   
+    
+}.polje{
+    width: 250px;
+    color:black;
+    border-color: black;
+    height: 20px;
+    font-size: 20px;;
+    
+    
+}.uvod{
+    color: yellow;
+}.brojevi{
+    border-style: solid;
+    border-color: black;
+    height: 100%;
+    width: 325px;;
+}
+
